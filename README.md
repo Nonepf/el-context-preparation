@@ -4,8 +4,6 @@
 
 ## 使用说明
 
-每天投入约 4 小时：3 小时精读当天的 md 文件，1 小时做配套练习。**每道题必须亲手敲代码**，不要复制粘贴。
-
 每个文件都包含：
 - 核心思想的直观解释（为什么这么做）
 - C++ 和 Python 双版本代码
@@ -17,27 +15,20 @@
 
 | 天数 | 日期 | 文件 | 内容 |
 |------|------|------|------|
-| Day 1 | 5/24 | [day1-stl-basics.md](day1-stl-basics.md) | STL 容器、输入输出、排序、暴力枚举与模拟 |
-| Day 2 | 5/25 | [day2-prefixsum-binarysearch.md](day2-prefixsum-binarysearch.md) | 一维/二维前缀和、差分数组、二分查找与二分答案 |
-| Day 3 | 5/26 | [day3-greedy-twopointers.md](day3-greedy-twopointers.md) | 贪心策略、反悔贪心、双指针、滑动窗口 |
-| Day 4 | 5/27 | [day4-dp.md](day4-dp.md) | 动态规划：01背包/完全背包、线性DP、状态机DP |
-| Day 5 | 5/28 | [day5-graph.md](day5-graph.md) | 图的存储、DFS/BFS、Dijkstra、拓扑排序 |
-| Day 6 | 5/29 | [day6-unionfind-string-mono.md](day6-unionfind-string-mono.md) | 并查集、字符串哈希、单调栈/单调队列、Trie、比赛策略 |
+| Day 1 | 5/24 | [day1-stl-basics.md](readings/day1-stl-basics.md) | STL 容器、输入输出、排序、暴力枚举与模拟 |
+| Day 2 | 5/25 | [day2-prefixsum-binarysearch.md](readings/day2-prefixsum-binarysearch.md) | 一维/二维前缀和、差分数组、二分查找与二分答案 |
+| Day 3 | 5/26 | [day3-greedy-twopointers.md](readings/day3-greedy-twopointers.md) | 贪心策略、反悔贪心、双指针、滑动窗口 |
+| Day 4 | 5/27 | [day4-dp.md](readings/day4-dp.md) | 动态规划：01背包/完全背包、线性DP、状态机DP |
+| Day 5 | 5/28 | [day5-graph.md](readings/day5-graph.md) | 图的存储、DFS/BFS、Dijkstra、拓扑排序 |
+| Day 6 | 5/29 | [day6-unionfind-string-mono.md](readings/day6-unionfind-string-mono.md) | 并查集、字符串哈希、单调栈/单调队列、Trie、比赛策略 |
 
 ## 代码模板
 
 比赛时可直接复制粘贴的模板文件：
-- [templates/template.cpp](templates/template.cpp) — C++ 通用模板
-- [templates/template.py](templates/template.py) — Python 通用模板
+- [templates/template.cpp](readings/templates/template.cpp) — C++ 通用模板
+- [templates/template.py](readings/templates/template.py) — Python 通用模板
 
 ## 学习方法
-
-### 每天的学习流程
-
-1. **阅读**（1.5–2 小时）：仔细阅读当天的 md 文件，理解每段代码的逻辑
-2. **默写**（0.5 小时）：不看书，尝试默写当天的核心代码模板
-3. **练习**（1 小时）：做配套练习题，每道题限时
-4. **总结**（0.5 小时）：回顾今天卡住的地方，写下笔记
 
 ### 比赛时的工作流
 
