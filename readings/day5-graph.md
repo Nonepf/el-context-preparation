@@ -563,7 +563,7 @@ vector<int> topoSortDFS(int n, vector<vector<int>>& g) {
 ## Day 5 配套练习
 
 | 题号 | 题目 | 考察点 |
-|------|------|--------|---------|
+|------|------|--------|
 | 1 | 图中连通块个数（DFS） | DFS 基础 |
 | 2 | 迷宫最短路径（网格 BFS） | BFS |
 | 3 | Dijkstra 模板题：求起点到各点最短距离 | Dijkstra |
